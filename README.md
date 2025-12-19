@@ -91,4 +91,3 @@ Security analysis of password hashing:
 - [FIPS 180-4: Secure Hash Standard](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf)
 - [PEP 257: Docstring Conventions](https://peps.python.org/pep-0257/)
 - [NumPy Documentation](https://numpy.org/doc/stable/)
-- [SHA256 Hash Cracking](https://crackstation.net/)
